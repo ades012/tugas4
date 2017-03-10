@@ -14,7 +14,7 @@ public class manager {
 		return bonus;
 	}
 
-	public voidf setBonus(int bonus) {
+	public void setBonus(int bonus) {
 		this.bonus = bonus;
 	}
 }
