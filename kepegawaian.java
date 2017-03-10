@@ -1,6 +1,6 @@
 public class kepegawaian {
 	public static void main (String[] args) {
-	manager bos = new manager ("Supardi", "Bojong Koneng', 6750000);
+	manager bos = new manager ("Supardi", "Bojong Koneng", 6750000);
 	bos.setBonus(1500000);
 
 		employee[] pegawai = new employee [3];
